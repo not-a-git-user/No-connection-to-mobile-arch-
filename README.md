@@ -1,4 +1,4 @@
-# No-connection-to-mobile-arch-
+# No-connection-to-mobile-in-arch
 Instructions on what to do if arch does not connects to mobile using usb 
 
 Error:  Arch not connecting to mobile for file transfer, instead assumes the mobile to be a media player.
