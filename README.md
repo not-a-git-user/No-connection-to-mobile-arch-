@@ -4,6 +4,7 @@ Instructions on what to do if arch does not connects to mobile using usb
 Error:  Arch not connecting to mobile for file transfer, instead assumes the mobile to be a media player.
 
 Fix:
+
 1.Install the following pakages 
 
 ```
